@@ -10,7 +10,7 @@
 		{
 			"name": "Erik Nohlmans",
 			"email": "erik@rkend.com"
-		},
+		}
 	],
 	"require": {
 		"php": ">=5.4.0",
