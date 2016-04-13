@@ -1,12 +1,16 @@
 {
-	"name": "regulus/activity-log",
+	"name": "erik2504/activitylog",
 	"description": "A clean and simple Laravel 5 activity logger for monitoring user activity on a website or web application.",
 	"license": "MIT",
 	"authors": [
 		{
 			"name": "Cody Jassman",
 			"email": "me@codyjassman.com"
-		}
+		},
+		{
+			"name": "Erik Nohlmans",
+			"email": "erik@rkend.com"
+		},
 	],
 	"require": {
 		"php": ">=5.4.0",
@@ -14,7 +18,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Regulus\\ActivityLog\\": "src/"
+			"erik2504\\ActivityLog\\": "src/"
 		}
 	}
 }
